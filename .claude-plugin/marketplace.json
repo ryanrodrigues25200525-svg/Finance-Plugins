@@ -1,0 +1,191 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ryan-finance-plugins",
+  "description": "Ryan Rodrigues finance-only Claude Code plugins",
+  "owner": {
+    "name": "Ryan Rodrigues",
+    "email": "rodriguesalfred@yahoo.com"
+  },
+  "plugins": [
+    {
+      "name": "credit",
+      "description": "Credit analysis — banking stress, credit risk, spreads, junk bond monitoring",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "credit",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "equity",
+      "description": "Single stock analysis — earnings, valuation, fundamentals, technicals",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "equity",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "flows",
+      "description": "Market flows — ETF flows, sector rotation, advance-decline, factor rotation",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "flows",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "macro",
+      "description": "Macro research — Fed watch, inflation, rates, recession risk, country reports",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "macro",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "portfolio",
+      "description": "Portfolio analysis — factor exposure, concentration risk, stress testing",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "portfolio",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "quant",
+      "description": "Quant & research — factor models, backtesting, strategy building",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "quant",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "sector",
+      "description": "Sector analysis — earnings, momentum, valuations, sector reports",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "sector",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "sentiment",
+      "description": "Market sentiment — Reddit, WSB, panic scans, narratives, consensus",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "sentiment",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "smart-money",
+      "description": "Smart money tracking — 13F, insiders, whale moves, activist watch",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "smart-money",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "trading",
+      "description": "Trading catalysts — earnings, options, M&A, spin-offs, 8-K alerts",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "trading",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "vol",
+      "description": "Volatility — gamma watch, skew monitor, vol crush opportunities",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "vol",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    },
+    {
+      "name": "ideas",
+      "description": "Investment ideas — deep value, compounders, contrarian, best ideas",
+      "author": {
+        "name": "Ryan Rodrigues"
+      },
+      "category": "finance",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "path": "ideas",
+        "ref": "main"
+      },
+      "version": "0.1.1"
+    }
+  ]
+}
