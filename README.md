@@ -1,4 +1,4 @@
-# finance-plugins
+# Finance Plugins
 
 Finance-only Claude Code plugin marketplace, split out from [claude-plugins](https://github.com/ryanrodrigues25200525-svg/claude-plugins).
 
