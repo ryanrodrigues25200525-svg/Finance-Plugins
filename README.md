@@ -22,5 +22,5 @@ Finance-only Claude Code plugin marketplace, split out from [claude-plugins](htt
 ## Install
 
 ```
-/plugin marketplace add ryanrodrigues25200525-svg/finance-plugins
+/plugin marketplace add ryanrodrigues25200525-svg/Finance-Plugins
 ```

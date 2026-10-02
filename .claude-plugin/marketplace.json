@@ -16,7 +16,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "credit",
         "ref": "main"
       },
@@ -31,7 +31,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "equity",
         "ref": "main"
       },
@@ -46,7 +46,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "flows",
         "ref": "main"
       },
@@ -61,7 +61,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "macro",
         "ref": "main"
       },
@@ -76,7 +76,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "portfolio",
         "ref": "main"
       },
@@ -91,7 +91,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "quant",
         "ref": "main"
       },
@@ -106,7 +106,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "sector",
         "ref": "main"
       },
@@ -121,7 +121,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "sentiment",
         "ref": "main"
       },
@@ -136,7 +136,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "smart-money",
         "ref": "main"
       },
@@ -151,7 +151,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "trading",
         "ref": "main"
       },
@@ -166,7 +166,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "vol",
         "ref": "main"
       },
@@ -181,7 +181,7 @@
       "category": "finance",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/ryanrodrigues25200525-svg/finance-plugins.git",
+        "url": "https://github.com/ryanrodrigues25200525-svg/Finance-Plugins.git",
         "path": "ideas",
         "ref": "main"
       },
